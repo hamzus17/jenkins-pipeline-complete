@@ -1,5 +1,4 @@
 # 🚀 DevOpsProject2 – CI/CD avec Docker, Jenkins, SonarQube, Prometheus et Grafana
-![Uploading image.png…]()
 
 ## 📌 Description
 
